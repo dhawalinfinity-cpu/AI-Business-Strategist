@@ -1,0 +1,5 @@
+{
+  "name": "AI Business Strategist",
+  "description": "An interactive, multi-step web application that guides users through creating a comprehensive business strategy with the help of AI. Users provide initial ideas, and the AI generates detailed sections for vision, market analysis, product, marketing, and financials.",
+  "requestFramePermissions": []
+}
